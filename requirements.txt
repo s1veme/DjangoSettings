@@ -1,0 +1,5 @@
+django
+pylint
+pylint_django
+autopep8
+pep8
