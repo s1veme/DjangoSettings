@@ -1,7 +1,7 @@
 # Настройка VSCode для разработки Django
 
 ```
-git clone ...
+git clone https://github.com/s1veme/DjangoSettings.git
 ```
 
 Устанавливаем `virtualenv`:
